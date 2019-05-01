@@ -1,0 +1,329 @@
+WHO_code,WHO_label,PCU_code,PCU_label,THCC_distance,PCU_distance,specific,values
+A33,Tetanus neonatorum,A33,Tetanus neonatorum,0,0,0,Tetanus neonatorum
+A34,Obstetrical tetanus,A34,Obstetrical tetanus,0,0,0,Obstetrical tetanus
+A35,Other tetanus,A35,Other tetanus,0,0,0,Other tetanus
+A38,Scarlet fever,A38,Scarlet fever,0,0,0,Scarlet fever
+A46,Erysipelas,A46,Erysipelas,0,0,0,Erysipelas
+A55,Chlamydial lymphogranuloma (venereum),A55,Chlamydial lymphogranuloma (venereum),0,0,0,Chlamydial lymphogranuloma (venereum)
+A57,Chancroid,A57,Chancroid,0,0,0,Chancroid
+A58,Granuloma inguinale,A58,Granuloma inguinale,0,0,0,Granuloma inguinale
+A64,Unspecified sexually transmitted disease,A64,Unspecified sexually transmitted disease,1,0,0,Unspecified sexually transmitted disease
+A65,Nonvenereal syphilis,A65,Nonvenereal syphilis,0,0,0,Nonvenereal syphilis
+A70,Chlamydia psittaci infection,A70,Chlamydia psittaci infection,0,0,0,Chlamydia psittaci infection
+A78,Q fever,A78,Q fever,0,0,0,Q fever
+A86,Unspecified viral encephalitis,A86,Unspecified viral encephalitis,0,0,0,Unspecified viral encephalitis
+A89,Unspecified viral infection of central nervous system,A89,Unspecified viral infection of central nervous system,0,0,0,Unspecified viral infection of central nervous system
+A94,Unspecified arthropod-borne viral fever,A94,Unspecified arthropod-borne viral fever,0,0,0,Unspecified arthropod-borne viral fever
+A99,Unspecified viral haemorrhagic fever,A99,Unspecified viral haemorrhagic fever,0,0,0,Unspecified viral haemorrhagic fever
+B03,Smallpox,B03,Smallpox,1,0,0,Smallpox
+B04,Monkeypox,B04,Monkeypox,0,0,0,Monkeypox
+B07,Viral warts,B07,Viral warts,0,0,0,Viral warts
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,B09,Unspecifeid viral infection characterized by skin and mucous  membrane lesions,3,3,0,Unspecif
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,B09,Unspecifeid viral infection characterized by skin and mucous  membrane lesions,3,3,-1,i
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,B09,Unspecifeid viral infection characterized by skin and mucous  membrane lesions,3,3,0,e
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,B09,Unspecifeid viral infection characterized by skin and mucous  membrane lesions,3,3,1,i
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,B09,Unspecifeid viral infection characterized by skin and mucous  membrane lesions,3,3,0,d viral infection characterized by skin and mucous 
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,B09,Unspecifeid viral infection characterized by skin and mucous  membrane lesions,3,3,1, 
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,B09,Unspecifeid viral infection characterized by skin and mucous  membrane lesions,3,3,0,membrane lesions
+B24,Unspecified human immunodeficiency virus [HIV] disease,B24,Unspecified human immunodeficiency virus(HIV) disease,0,3,0,Unspecified human immunodeficiency virus
+B24,Unspecified human immunodeficiency virus [HIV] disease,B24,Unspecified human immunodeficiency virus(HIV) disease,0,3,-1, [
+B24,Unspecified human immunodeficiency virus [HIV] disease,B24,Unspecified human immunodeficiency virus(HIV) disease,0,3,1,(
+B24,Unspecified human immunodeficiency virus [HIV] disease,B24,Unspecified human immunodeficiency virus(HIV) disease,0,3,0,HIV
+B24,Unspecified human immunodeficiency virus [HIV] disease,B24,Unspecified human immunodeficiency virus(HIV) disease,0,3,-1,]
+B24,Unspecified human immunodeficiency virus [HIV] disease,B24,Unspecified human immunodeficiency virus(HIV) disease,0,3,1,)
+B24,Unspecified human immunodeficiency virus [HIV] disease,B24,Unspecified human immunodeficiency virus(HIV) disease,0,3,0, disease
+B49,Unspecified mycosis,B49,Unspecified mycosis,0,0,0,Unspecified mycosis
+B54,Unspecified malaria,B54,Unspecified malaria,0,0,0,Unspecified malaria
+B59,Pneumocystosis(J17.3),B59,Pneumocystosis,2,7,0,Pneumocystosis
+B59,Pneumocystosis(J17.3),B59,Pneumocystosis,2,7,-1,(J17.3)
+B64,Unspecified protozoal disease,B64,Unspecified protozoal disease,0,0,0,Unspecified protozoal disease
+B72,Dracunculiasis,B72,Dracunculiasis,0,0,0,Dracunculiasis
+B73,Onchocerciasis,B73,Onchocerciasis,0,0,0,Onchocerciasis
+B75,Trichinellosis,B75,Trichinellosis,0,0,0,Trichinellosis
+B79,Trichuriasis,B79,Trichuriasis,0,0,0,Trichuriasis
+B80,Enterobiasis,B80,Enterobiasis,0,0,0,Enterobiasis
+B89,Unspecified parasitic disease,B89,Unspecified parasitic disease,0,0,0,Unspecified parasitic disease
+B91,Sequelae of poliomyelitis,B91,Sequelae of poliomyelitis,0,0,0,Sequelae of poliomyelitis
+B92,Sequelae of leprosy,B92,Sequelae of leprosy,0,0,0,Sequelae of leprosy
+B99,Other and unspecified infectious diseases,B99,Other and unspecified infectious diseases,0,0,0,Other and unspecified infectious diseases
+C01,Malignant neoplasm of base of tongue,C01,Malignant neoplasm of base of tongue,0,0,0,Malignant neoplasm of base of tongue
+C07,Malignant neoplasm of parotid gland,C07,Malignath neoplasm of paraotid gland,0,3,0,Maligna
+C07,Malignant neoplasm of parotid gland,C07,Malignath neoplasm of paraotid gland,0,3,-1,n
+C07,Malignant neoplasm of parotid gland,C07,Malignath neoplasm of paraotid gland,0,3,0,t
+C07,Malignant neoplasm of parotid gland,C07,Malignath neoplasm of paraotid gland,0,3,1,h
+C07,Malignant neoplasm of parotid gland,C07,Malignath neoplasm of paraotid gland,0,3,0, neoplasm of par
+C07,Malignant neoplasm of parotid gland,C07,Malignath neoplasm of paraotid gland,0,3,1,a
+C07,Malignant neoplasm of parotid gland,C07,Malignath neoplasm of paraotid gland,0,3,0,otid gland
+C19,Malignant neoplasm of rectosigmoid junction,C19,Malignant neoplasm of rectosigmoid junction,0,0,0,Malignant neoplasm of rectosigmoid junction
+C20,Malignant neoplasm of rectum,C20,Malignant neoplasm of rectum,0,0,0,Malignant neoplasm of rectum
+C23,Malignant neoplasm of gallbladder,C23,Malignant neoplasm of gallbladder,0,0,0,Malignant neoplasm of gallbladder
+C33,Malignant neoplasm of trachea,C33,Malignant neoplasm of trachea,0,0,0,Malignant neoplasm of trachea
+C37,Malignant neoplasm of thymus,C37,Malignant neoplasm of thymus,0,0,0,Malignant neoplasm of thymus
+C52,Malignant neoplasm of vagina,C52,Malignant neoplasm of vagaina,0,1,0,Malignant neoplasm of vag
+C52,Malignant neoplasm of vagina,C52,Malignant neoplasm of vagaina,0,1,1,a
+C52,Malignant neoplasm of vagina,C52,Malignant neoplasm of vagaina,0,1,0,ina
+C55,"Malignant neoplasm of uterus, part unspecified",C55,Malignant neoplasm of uterus part unspecified,0,1,0,Malignant neoplasm of uterus
+C55,"Malignant neoplasm of uterus, part unspecified",C55,Malignant neoplasm of uterus part unspecified,0,1,-1,","
+C55,"Malignant neoplasm of uterus, part unspecified",C55,Malignant neoplasm of uterus part unspecified,0,1,0, part unspecified
+C56,Malignant neoplasm of ovary,C56,Malignant neoplasm of ovary,0,0,0,Malignant neoplasm of ovary
+C58,Malignant neoplasm of placenta,C58,Malignant neoplasm of placenta,0,0,0,Malignant neoplasm of placenta
+C61,Malignant neoplasm of prostate,C61,Malignant neoplasm of prostate,0,0,0,Malignant neoplasm of prostate
+C64,"Malignant neoplasm of kidney, except renal pelvis",C64,Malignant neoplasm of kidney except renal pelvis,1,1,0,Malignant neoplasm of kidney
+C64,"Malignant neoplasm of kidney, except renal pelvis",C64,Malignant neoplasm of kidney except renal pelvis,1,1,-1,","
+C64,"Malignant neoplasm of kidney, except renal pelvis",C64,Malignant neoplasm of kidney except renal pelvis,1,1,0, except renal pelvis
+C65,Malignant neoplasm of renal pelvis,C65,Malignant neoplasm of renal pelvis,0,0,0,Malignant neoplasm of renal pelvis
+C66,Malignant neoplasm of ureter,C66,Malignant neoplasm of ureter,0,0,0,Malignant neoplasm of ureter
+C73,Malignant neoplasm of thyroid gland,C73,Malignant neoplasm of thyroid gland,0,0,0,Malignant neoplasm of thyroid gland
+C97,Malignant neoplasms of independent (primary) multiple sites,C97,Malignant neoplasms of independent (primary) multiple sites,0,0,0,Malignant neoplasms of independent (primary) multiple sites
+D24,Benign neoplasm of breast,D24,Benign neoplasm of breast,0,0,0,Benign neoplasm of breast
+D27,Benign neoplasm of ovary,D27,Benign neoplasm of ovary,0,0,0,Benign neoplasm of ovary
+D34,Benign neoplasm of thyroid gland,D34,Benign neoplasm of thyroid gland,0,0,0,Benign neoplasm of thyroid gland
+D45,Polycythaemia vera,D45,Polycythaemia vera,0,0,0,Polycythaemia vera
+D62,Acute posthaemorrhagic anaemia,D62,Acute posthaemorrhagic anaemia,0,0,0,Acute posthaemorrhagic anaemia
+D65,Disseminated intravascular coagulation [defibrination syndrome],D65,Disseminated intravascular coagulation [defibrination syndrome],0,0,0,Disseminated intravascular coagulation [defibrination syndrome]
+D66,Hereditary factor VIII deficiency,D66,Hereditary factor VIII deficiency,0,0,0,Hereditary factor VIII deficiency
+D67,Hereditary factor IX deficiency,D67,Hereditary factor IX deficiency,0,0,0,Hereditary factor IX deficiency
+D70,Agranulocytosis,D70,Agranulocytosis,0,0,0,Agranulocytosis
+D71,Functional disorders of polymorphonuclear neutrophils,D71,Functional disorders of polymorphonuclear neutrophils,0,0,0,Functional disorders of polymorphonuclear neutrophils
+E02,Subclinical iodine-deficiency hypothyroidism,E02,Subclinical iodine-deficiency hypothyroidism,0,0,0,Subclinical iodine-deficiency hypothyroidism
+E15,Nondiabetic hypoglycaemic coma,E15,Nondiabetic hypoglycaemic coma,0,0,0,Nondiabetic hypoglycaemic coma
+E40,Kwashiorkor,E40,Kwashiorkor,0,0,0,Kwashiorkor
+E41,Nutritional marasmus,E41,Nutritional marasmus,1,0,0,Nutritional marasmus
+E42,Marasmic kwashiorkor,E42,Marasmic kwashiorkor,0,0,0,Marasmic kwashiorkor
+E43,Unspecified severe protein-energy malnutrition,E43,Unspecified severe protein-energy malnutrition,0,0,0,Unspecified severe protein-energy malnutrition
+E45,Retarded development following protein-energy malnutrition,E45,Retarded development following protein-energy malnutrition,0,0,0,Retarded development following protein-energy malnutrition
+E46,Unspecified protein-energy malnutrition,E46,Unspecified protein-energy malnutrition,0,0,0,Unspecified protein-energy malnutrition
+E52,Niacin deficiency [pellagra],E52,Niacin deficiency [pellagra],0,0,0,Niacin deficiency [pellagra]
+E54,Ascorbic acid deficiency,E54,Ascorbic acid deficiency,0,0,0,Ascorbic acid deficiency
+E58,Dietary calcium deficiency,E58,Dietary calcium deficiency,0,0,0,Dietary calcium deficiency
+E59,Dietary selenium deficiency,E59,Dietary selenium deficiency,0,0,0,Dietary selenium deficiency
+E60,Dietary zinc deficiency,E60,Dietary zinc deficiency,0,0,0,Dietary zinc deficiency
+E65,Localized adiposity,E65,Localized adiposity,0,0,0,Localized adiposity
+E68,Sequelae of hyperalimentation,E68,Sequelae of hyperalimentation,0,0,0,Sequelae of hyperalimentation
+E86,Volume depletion,E86,Volume depletion,0,0,0,Volume depletion
+F03,Unspecified dementia,F03,Unspecified dementia,0,0,0,Unspecified dementia
+F04,"Organic amnesic syndrome, not induced by alcohol and other psychoactive substances",F04,Organic amnesic syndrome not induced by alcohol and other psychoactive substances,0,1,0,Organic amnesic syndrome
+F04,"Organic amnesic syndrome, not induced by alcohol and other psychoactive substances",F04,Organic amnesic syndrome not induced by alcohol and other psychoactive substances,0,1,-1,","
+F04,"Organic amnesic syndrome, not induced by alcohol and other psychoactive substances",F04,Organic amnesic syndrome not induced by alcohol and other psychoactive substances,0,1,0, not induced by alcohol and other psychoactive substances
+F09,Unspecified organic or symptomatic mental disorder,F09,Unspecified organic or symptomatic mental disorder,0,0,0,Unspecified organic or symptomatic mental disorder
+F21,Schizotypal disorder,F21,Schizotypal disorder,0,0,0,Schizotypal disorder
+F24,Induced delusional disorder,F24,Induced delusional disorder,0,0,0,Induced delusional disorder
+F28,Other nonorganic psychotic disorders,F28,Other nonorganic psychotic disorders,0,0,0,Other nonorganic psychotic disorders
+F29,Unspecified nonorganic psychosis,F29,Unspecified nonorganic psychosis,0,0,0,Unspecified nonorganic psychosis
+F39,Unspecified mood [affective] disorder,F39,Unspecified mood  [affective] disorders,1,2,0,Unspecified mood 
+F39,Unspecified mood [affective] disorder,F39,Unspecified mood  [affective] disorders,1,2,1, 
+F39,Unspecified mood [affective] disorder,F39,Unspecified mood  [affective] disorders,1,2,0,[affective] disorder
+F39,Unspecified mood [affective] disorder,F39,Unspecified mood  [affective] disorders,1,2,1,s
+F54,Psychological and behavioural factors associated with disorders or diseases classified elsewhere,F54,Psychological and behavioural factors associated with  disorders or diseases classified elsewhere,1,1,0,Psychological and behavioural factors associated with 
+F54,Psychological and behavioural factors associated with disorders or diseases classified elsewhere,F54,Psychological and behavioural factors associated with  disorders or diseases classified elsewhere,1,1,1, 
+F54,Psychological and behavioural factors associated with disorders or diseases classified elsewhere,F54,Psychological and behavioural factors associated with  disorders or diseases classified elsewhere,1,1,0,disorders or diseases classified elsewhere
+F59,Unspecified behavioural syndromes associated with physiological disturbances and physical factors,F59,Unspecified behavioural syndromes associated with physiological disturbances and physical factors,0,0,0,Unspecified behavioural syndromes associated with physiological disturbances and physical factors
+F61,Mixed and other personality disorders,F61,Mixed and other personality disorders,0,0,0,Mixed and other personality disorders
+F69,Unspecified disorder of adult personality and behaviour,F69,Unspecified disorder of adult personality and behaviour,0,0,0,Unspecified disorder of adult personality and behaviour
+F82,Specific developmental disorder of motor function,F82,Specific developmental disorders of motor function,0,1,0,Specific developmental disorder
+F82,Specific developmental disorder of motor function,F82,Specific developmental disorders of motor function,0,1,1,s
+F82,Specific developmental disorder of motor function,F82,Specific developmental disorders of motor function,0,1,0, of motor function
+F83,Mixed specific developmental disorders,F83,Mixed specific developmental disorders,0,0,0,Mixed specific developmental disorders
+F88,Other disorders of psychological development,F88,Other disorders of psychological development,0,0,0,Other disorders of psychological development
+F89,Unspecified disorder of psychological development,F89,Unspecified disorder of psychological development,0,0,0,Unspecified disorder of psychological development
+F99,"Mental disorder, not otherwise specified",F99,Mental disorder not otherwise spcified,0,2,0,Mental disorder
+F99,"Mental disorder, not otherwise specified",F99,Mental disorder not otherwise spcified,0,2,-1,","
+F99,"Mental disorder, not otherwise specified",F99,Mental disorder not otherwise spcified,0,2,0, not otherwise sp
+F99,"Mental disorder, not otherwise specified",F99,Mental disorder not otherwise spcified,0,2,-1,e
+F99,"Mental disorder, not otherwise specified",F99,Mental disorder not otherwise spcified,0,2,0,cified
+G08,Intracranial and intraspinal phlebitis and thrombophlebitis,G08,Intracranial and intraspinal phlebitis and thrombophlebitis,0,0,0,Intracranial and intraspinal phlebitis and thrombophlebitis
+G09,Sequelae of inflammatory diseases of central nervous system,G09,Sequelae of inflammatory diseases of central nervous system,0,0,0,Sequelae of inflammatory diseases of central nervous system
+G10,Huntington disease,G10,Huntington's disease,2,2,0,Huntington
+G10,Huntington disease,G10,Huntington's disease,2,2,1,'s
+G10,Huntington disease,G10,Huntington's disease,2,2,0, disease
+G20,Parkinson disease,G20,Parkinson's disease,2,2,0,Parkinson
+G20,Parkinson disease,G20,Parkinson's disease,2,2,1,'s
+G20,Parkinson disease,G20,Parkinson's disease,2,2,0, disease
+G35,Multiple sclerosis,G35,Multiple sclerosis,0,0,0,Multiple sclerosis
+G64,Other disorders of peripheral nervous system,G64,Other disorders of peripheral nervous system,0,0,0,Other disorders of peripheral nervous system
+G92,Toxic encephalopathy,G92,Toxic encephalpathy,1,1,0,Toxic encephal
+G92,Toxic encephalopathy,G92,Toxic encephalpathy,1,1,-1,o
+G92,Toxic encephalopathy,G92,Toxic encephalpathy,1,1,0,pathy
+G98,"Other disorders of nervous system, not elsewhere classified",G98,Other disorders of nervous system not elsewhere classified,0,1,0,Other disorders of nervous system
+G98,"Other disorders of nervous system, not elsewhere classified",G98,Other disorders of nervous system not elsewhere classified,0,1,-1,","
+G98,"Other disorders of nervous system, not elsewhere classified",G98,Other disorders of nervous system not elsewhere classified,0,1,0, not elsewhere classified
+H46,Optic neuritis,H46,Optic neuritis,0,0,0,Optic neuritis
+H55,Nystagmus and other irregular eye movements,H55,Nystagmus and other irregular eye movements,0,0,0,Nystagmus and other irregular eye movements
+H71,Cholesteatoma of middle ear,H71,Cholesteatoma of middle ear,0,0,0,Cholesteatoma of middle ear
+I00,Rheumatic fever without mention of heart involvement,I00,Rheumatic fever without mention of heart involvement,0,0,0,Rheumatic fever without mention of heart involvement
+I10,Essential (primary) hypertension,I10,Essential (primary) hypertension,0,0,0,Essential (primary) hypertension
+I38,"Endocarditis, valve unspecified",I38,Endocarditis valve unspecified,0,1,0,Endocarditis
+I38,"Endocarditis, valve unspecified",I38,Endocarditis valve unspecified,0,1,-1,","
+I38,"Endocarditis, valve unspecified",I38,Endocarditis valve unspecified,0,1,0, valve unspecified
+I64,"Stroke, not specified as haemorrhage or infarction",I64,Stroke not specified as haemorrhage or infarction,1,1,0,Stroke
+I64,"Stroke, not specified as haemorrhage or infarction",I64,Stroke not specified as haemorrhage or infarction,1,1,-1,","
+I64,"Stroke, not specified as haemorrhage or infarction",I64,Stroke not specified as haemorrhage or infarction,1,1,0, not specified as haemorrhage or infarction
+I81,Portal vein thrombosis,I81,Portal vein thrombosis,0,0,0,Portal vein thrombosis
+I99,Other and unspecified disorders of circulatory system,I99,Other and unspecified disorders of circulatory system,3,0,0,Other and unspecified disorders of circulatory system
+J00,Acute nasopharyngitis [common cold],J00,Acute nasopharyngitis [common cold],0,0,0,Acute nasopharyngitis [common cold]
+J13,Pneumonia due to Streptococcus pneumoniae,J13,Pneumonia due to Streptococcus pneumoniae,0,0,0,Pneumonia due to Streptococcus pneumoniae
+J14,Pneumonia due to Haemophilus influenzae,J14,Pneumonia due to Haemophilus influenzae,0,0,0,Pneumonia due to Haemophilus influenzae
+J22,Unspecified acute lower respiratory infection,J22,Unspecified acute lower respiratory infection,0,0,0,Unspecified acute lower respiratory infection
+J36,Peritonsillar abscess,J36,Peritonsillar abscess,0,0,0,Peritonsillar abscess
+J40,"Bronchitis, not specified as acute or chronic",J40,Bronchitis not specified as acute or chronic,0,1,0,Bronchitis
+J40,"Bronchitis, not specified as acute or chronic",J40,Bronchitis not specified as acute or chronic,0,1,-1,","
+J40,"Bronchitis, not specified as acute or chronic",J40,Bronchitis not specified as acute or chronic,0,1,0, not specified as acute or chronic
+J42,Unspecified chronic bronchitis,J42,Unspecified chronic bronchitis,0,0,0,Unspecified chronic bronchitis
+J46,Status asthmaticus,J46,Status asthmaticus,0,0,0,Status asthmaticus
+J47,Bronchiectasis,J47,Bronchiectasis,0,0,0,Bronchiectasis
+J60,Coalworker pneumoconiosis,J60,Coalworker's pneumoconiosis,2,2,0,Coalworker
+J60,Coalworker pneumoconiosis,J60,Coalworker's pneumoconiosis,2,2,1,'s
+J60,Coalworker pneumoconiosis,J60,Coalworker's pneumoconiosis,2,2,0, pneumoconiosis
+J61,Pneumoconiosis due to asbestos and other mineral fibres,J61,Pneumoconiosis due to asbestos and other mineral fibres,0,0,0,Pneumoconiosis due to asbestos and other mineral fibres
+J64,Unspecified pneumoconiosis,J64,Unspecified pneumoconiosis,0,0,0,Unspecified pneumoconiosis
+J65,Pneumoconiosis associated with tuberculosis,J65,Pneumoconiosis associated with tuberculosis,0,0,0,Pneumoconiosis associated with tuberculosis
+J80,Adult respiratory distress syndrome,J80,Adult respiratory distress syndrome,0,0,0,Adult respiratory distress syndrome
+J81,Pulmonary oedema,J81,Pulmonary oedema,0,0,0,Pulmonary oedema
+J82,"Pulmonary eosinophilia, not elsewhere classified",J82,Pulmonary eosinophilia not elsewhere classified,0,1,0,Pulmonary eosinophilia
+J82,"Pulmonary eosinophilia, not elsewhere classified",J82,Pulmonary eosinophilia not elsewhere classified,0,1,-1,","
+J82,"Pulmonary eosinophilia, not elsewhere classified",J82,Pulmonary eosinophilia not elsewhere classified,0,1,0, not elsewhere classified
+J90,"Pleural effusion, not elsewhere classified",J90,Pleural effusion not elsewhere classified,0,1,0,Pleural effusion
+J90,"Pleural effusion, not elsewhere classified",J90,Pleural effusion not elsewhere classified,0,1,-1,","
+J90,"Pleural effusion, not elsewhere classified",J90,Pleural effusion not elsewhere classified,0,1,0, not elsewhere classified
+K20,Oesophagitis,K20,Oesophagitis,0,0,0,Oesophagitis
+K30,Functional dyspepsia,K30,Dyspepsia,0,11,-1,Functional d
+K30,Functional dyspepsia,K30,Dyspepsia,0,11,1,D
+K30,Functional dyspepsia,K30,Dyspepsia,0,11,0,yspepsia
+K36,Other appendicitis,K36,Other appendicitis,0,0,0,Other appendicitis
+K37,Unspecified appendicitis,K37,Unspecified appendicitis,0,0,0,Unspecified appendicitis
+L00,Staphylococcal scalded skin syndrome,L00,Staphylococcal scalded skin syndrome,0,0,0,Staphylococcal scalded skin syndrome
+L22,Diaper [napkin] dermatitis,L22,Diaper [napkin] dermatitis,0,0,0,Diaper [napkin] dermatitis
+L26,Exfoliative dermatitis,L26,Exfoliative dermatitis,0,0,0,Exfoliative dermatitis
+L42,Pityriasis rosea,L42,Pityriasis rosea,0,0,0,Pityriasis rosea
+L52,Erythema nodosum,L52,Erythema nodosum,0,0,0,Erythema nodosum
+L80,Vitiligo,L80,Vitiligo,0,0,0,Vitiligo
+L82,Seborrhoeic keratosis,L82,Seborrhoeic keratosis,0,0,0,Seborrhoeic keratosis
+L83,Acanthosis nigricans,L83,Acanthosis nigricans,0,0,0,Acanthosis nigricans
+L84,Corns and callosities,L84,Corns and callosities,0,0,0,Corns and callosities
+L88,Pyoderma gangrenosum,L88,Pyoderma gangrenosum,0,0,0,Pyoderma gangrenosum
+L97,"Ulcer of lower limb, not elsewhere classified",L97,Ulcer of lower limb not elsewhere classified,0,1,0,Ulcer of lower limb
+L97,"Ulcer of lower limb, not elsewhere classified",L97,Ulcer of lower limb not elsewhere classified,0,1,-1,","
+L97,"Ulcer of lower limb, not elsewhere classified",L97,Ulcer of lower limb not elsewhere classified,0,1,0, not elsewhere classified
+M45,Ankylosing spondylitis,M45,Ankylosing spondylitis,0,0,0,Ankylosing spondylitis
+N10,Acute tubulo-interstitial nephritis,N10,Acute tubulo-interstitial nephritis,0,0,0,Acute tubulo-interstitial nephritis
+N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",N12,Tubulo-interstitial nephritis not specified as acute or chronic,0,1,0,Tubulo-interstitial nephritis
+N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",N12,Tubulo-interstitial nephritis not specified as acute or chronic,0,1,-1,","
+N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",N12,Tubulo-interstitial nephritis not specified as acute or chronic,0,1,0, not specified as acute or chronic
+N19,Unspecified kidney failure,N19,Unspecified renal failure,5,5,0,Unspecified 
+N19,Unspecified kidney failure,N19,Unspecified renal failure,5,5,-1,kidney
+N19,Unspecified kidney failure,N19,Unspecified renal failure,5,5,1,renal
+N19,Unspecified kidney failure,N19,Unspecified renal failure,5,5,0, failure
+N23,Unspecified renal colic,N23,Unspecified renal colic,0,0,0,Unspecified renal colic
+N26,Unspecified contracted kidney,N26,Unspecified contracted kidney,0,0,0,Unspecified contracted kidney
+N40,Hyperplasia of prostate,N40,Hyperplasia of prostate,0,0,0,Hyperplasia of prostate
+N44,Torsion of testis,N44,Torsion of testis,0,0,0,Torsion of testis
+N46,Male infertility,N46,Male infertility,0,0,0,Male infertility
+N47,"Redundant prepuce, phimosis and paraphimosis",N47,Redundant prepuce phimosis and paraphimosis,0,1,0,Redundant prepuce
+N47,"Redundant prepuce, phimosis and paraphimosis",N47,Redundant prepuce phimosis and paraphimosis,0,1,-1,","
+N47,"Redundant prepuce, phimosis and paraphimosis",N47,Redundant prepuce phimosis and paraphimosis,0,1,0, phimosis and paraphimosis
+N61,Inflammatory disorders of breast,N61,Inflammatory disorders of breast,0,0,0,Inflammatory disorders of breast
+N62,Hypertrophy of breast,N62,Hypertrophy of breast,0,0,0,Hypertrophy of breast
+N63,Unspecified lump in breast,N63,Unspecified lump in breast,0,0,0,Unspecified lump in breast
+N72,Inflammatory disease of cervix uteri,N72,Inflammatory disease of cervix uteri,0,0,0,Inflammatory disease of cervix uteri
+N86,Erosion and ectropion of cervix uteri,N86,Erosion and ectropion of cervix uteri,0,0,0,Erosion and ectropion of cervix uteri
+N96,Habitual aborter,N96,Habitual aborter,0,0,0,Habitual aborter
+O11,Pre-eclampsia superimposed on chronic hypertension,O11,Pre-existing hypertensive disorder with superimposed proteinuria,0,45,0,Pre-e
+O11,Pre-eclampsia superimposed on chronic hypertension,O11,Pre-existing hypertensive disorder with superimposed proteinuria,0,45,-1,clampsia superimposed on chronic hypertension
+O11,Pre-eclampsia superimposed on chronic hypertension,O11,Pre-existing hypertensive disorder with superimposed proteinuria,0,45,1,xisting hypertensive disorder with superimposed proteinuria
+O13,Gestational [pregnancy-induced] hypertension,O13,Gestational [ pregnancy-induced ] hypertension without significant proteinuria,0,34,0,Gestational [
+O13,Gestational [pregnancy-induced] hypertension,O13,Gestational [ pregnancy-induced ] hypertension without significant proteinuria,0,34,1, 
+O13,Gestational [pregnancy-induced] hypertension,O13,Gestational [ pregnancy-induced ] hypertension without significant proteinuria,0,34,0,pregnancy-induced
+O13,Gestational [pregnancy-induced] hypertension,O13,Gestational [ pregnancy-induced ] hypertension without significant proteinuria,0,34,1, 
+O13,Gestational [pregnancy-induced] hypertension,O13,Gestational [ pregnancy-induced ] hypertension without significant proteinuria,0,34,0,] hypertension
+O13,Gestational [pregnancy-induced] hypertension,O13,Gestational [ pregnancy-induced ] hypertension without significant proteinuria,0,34,1, without significant proteinuria
+O16,Unspecified maternal hypertension,O16,Unspecified maternal hypertension,0,0,0,Unspecified maternal hypertension
+O25,Malnutrition in pregnancy,O25,Malnutrition in pregnancy,0,0,0,Malnutrition in pregnancy
+O40,Polyhydramnios,O40,Polyhydramnios,0,0,0,Polyhydramnios
+O48,Prolonged pregnancy,O48,Prolonged pregnancy,0,0,0,Prolonged pregnancy
+O85,Puerperal sepsis,O85,Puerperal sepsis,0,0,0,Puerperal sepsis
+O95,Obstetric death of unspecified cause,O95,Obstetric death of unspecified cause,0,0,0,Obstetric death of unspecified cause
+O97,Death from sequelae of obstetric causes,O97,Death from sequelae of direct obstetric causes,0,7,0,Death from sequelae of 
+O97,Death from sequelae of obstetric causes,O97,Death from sequelae of direct obstetric causes,0,7,1,direct 
+O97,Death from sequelae of obstetric causes,O97,Death from sequelae of direct obstetric causes,0,7,0,obstetric causes
+P38,Omphalitis of newborn with or without mild haemorrhage,P38,Omphalitis of newborn with or without mild haemorrhage,0,0,0,Omphalitis of newborn with or without mild haemorrhage
+P53,Haemorrhagic disease of fetus and newborn,P53,Haemorrhagic disease of fetus and newborn,0,0,0,Haemorrhagic disease of fetus and newborn
+P60,Disseminated intravascular coagulation of fetus and newborn,P60,Disseminated intravascular coagutation of fetus and newborn,0,1,0,Disseminated intravascular coagu
+P60,Disseminated intravascular coagulation of fetus and newborn,P60,Disseminated intravascular coagutation of fetus and newborn,0,1,-1,l
+P60,Disseminated intravascular coagulation of fetus and newborn,P60,Disseminated intravascular coagutation of fetus and newborn,0,1,1,t
+P60,Disseminated intravascular coagulation of fetus and newborn,P60,Disseminated intravascular coagutation of fetus and newborn,0,1,0,ation of fetus and newborn
+P77,Necrotizing enterocolitis of fetus and newborn,P77,Necrotizing enterocolitis of fetus and newborn,0,0,0,Necrotizing enterocolitis of fetus and newborn
+P90,Convulsions of newborn,P90,Convulsions of newborn,0,0,0,Convulsions of newborn
+P93,Reactions and intoxications due to drugs administered to fetus and newborn,P93,Reactions and intoxications due to drugs administered to fetus and newborn,0,0,0,Reactions and intoxications due to drugs administered to fetus and newborn
+P95,Fetal death of unspecified cause,P95,Fetal death of unspecified cause,0,0,0,Fetal death of unspecified cause
+Q02,Microcephaly,Q02,Microcephaly,0,0,0,Microcephaly
+R02,"Gangrene, not elsewhere classified",R02,Gangrene not elsewhere classified,0,1,0,Gangrene
+R02,"Gangrene, not elsewhere classified",R02,Gangrene not elsewhere classified,0,1,-1,","
+R02,"Gangrene, not elsewhere classified",R02,Gangrene not elsewhere classified,0,1,0, not elsewhere classified
+R05,Cough,R05,Cough,0,0,0,Cough
+R12,Heartburn,R12,Heartburn,0,0,0,Heartburn
+R13,Dysphagia,R13,Dysphagia,0,0,0,Dysphagia
+R14,Flatulence and related conditions,R14,Flatulence and related conditions,0,0,0,Flatulence and related conditions
+R15,Faecal incontinence,R15,Faecal incontinence,0,0,0,Faecal incontinence
+R18,Ascites,R18,Ascites,0,0,0,Ascites
+R21,Rash and other nonspecific skin eruption,R21,Rash and other nonspecific shin eruption,0,1,0,Rash and other nonspecific s
+R21,Rash and other nonspecific skin eruption,R21,Rash and other nonspecific shin eruption,0,1,-1,k
+R21,Rash and other nonspecific skin eruption,R21,Rash and other nonspecific shin eruption,0,1,1,h
+R21,Rash and other nonspecific skin eruption,R21,Rash and other nonspecific shin eruption,0,1,0,in eruption
+R31,Unspecified haematuria,R31,Unspecified haematuria,0,0,0,Unspecified haematuria
+R32,Unspecified urinary incontinence,R32,Unspecified urinary incontinence,0,0,0,Unspecified urinary incontinence
+R33,Retention of urine,R33,Retention of urine,0,0,0,Retention of urine
+R34,Anuria and oliguria,R34,Anuria and oliguria,0,0,0,Anuria and oliguria
+R35,Polyuria,R35,Polyuria,0,0,0,Polyuria
+R36,Urethral discharge,R36,Urethral discharge,0,0,0,Urethral discharge
+R42,Dizziness and giddiness,R42,Dizziness and giddiness,0,0,0,Dizziness and giddiness
+R53,Malaise and fatigue,R53,Malaise and fatigue,0,0,0,Malaise and fatigue
+R54,Senility,R54,Senility,0,0,0,Senility
+R55,Syncope and collapse,R55,Syncope and collapse,0,0,0,Syncope and collapse
+R58,"Haemorrhage, not elsewhere classified",R58,Haemorrhage not elsewhere classified,0,1,0,Haemorrhage
+R58,"Haemorrhage, not elsewhere classified",R58,Haemorrhage not elsewhere classified,0,1,-1,","
+R58,"Haemorrhage, not elsewhere classified",R58,Haemorrhage not elsewhere classified,0,1,0, not elsewhere classified
+R64,Cachexia,R64,Cachexia,0,0,0,Cachexia
+R69,Unknown and unspecified causes of morbidity,R69,Unknown and unspecified causes of morbidity,0,0,0,Unknown and unspecified causes of morbidity
+R71,Abnormality of red blood cells,R71,Abnormality of red blood cells,0,0,0,Abnormality of red blood cells
+R72,"Abnormality of white blood cells, not elsewhere classified",R72,Abnormality of white blood cells not elsewhere classified,0,1,0,Abnormality of white blood cells
+R72,"Abnormality of white blood cells, not elsewhere classified",R72,Abnormality of white blood cells not elsewhere classified,0,1,-1,","
+R72,"Abnormality of white blood cells, not elsewhere classified",R72,Abnormality of white blood cells not elsewhere classified,0,1,0, not elsewhere classified
+R75,Laboratory evidence of human immunodeficiency virus [HIV],R75,Laboratory evidence of human immunodeficiency virus [HIV],0,0,0,Laboratory evidence of human immunodeficiency virus [HIV]
+R80,Isolated proteinuria,R80,Isolated proteinuria,0,0,0,Isolated proteinuria
+R81,Glycosuria,R81,Glycosuria,0,0,0,Glycosuria
+R91,Abnormal findings on diagnostic imaging of lung,R91,Abnormal findings on diagnostic imaging of lung,0,0,0,Abnormal findings on diagnostic imaging of lung
+R92,Abnormal findings on diagnostic imaging of breast,R92,Abnormal findings on diagnostic imaging of breast,0,0,0,Abnormal findings on diagnostic imaging of breast
+R98,Unattended death,R98,Unattended death,0,0,0,Unattended death
+R99,Other ill-defined and unspecified causes of mortality,R99,Other ill-defined and unspecified causes of mortality,0,0,0,Other ill-defined and unspecified causes of mortality
+S16,Injury of muscle and tendon at neck level,S16,Injury of muscle and tendon at neck level,0,0,0,Injury of muscle and tendon at neck level
+S18,Traumatic amputation at neck level,S18,Traumatic amputation at neck level,0,0,0,Traumatic amputation at neck level
+S47,Crushing injury of shoulder and upper arm,S47,Crushing injury of shoulder and upper arm,0,0,0,Crushing injury of shoulder and upper arm
+T07,Unspecified multiple injuries,T07,Unspecified multiple injuries,0,0,0,Unspecified multiple injuries
+T16,Foreign body in ear,T16,Foreign body in ear,0,0,0,Foreign body in ear
+T55,Toxic effect of soaps and detergents,T55,Toxic effect of soaps and detergents,0,0,0,Toxic effect of soaps and detergents
+T58,Toxic effect of carbon monoxide,T58,Toxic effect of carbon monoxide,0,0,0,Toxic effect of carbon monoxide
+T64,Toxic effect of aflatoxin and other mycotoxin food contaminants,T64,Toxic effect of aflatoxin and other mycotoxin food contaminants,0,0,0,Toxic effect of aflatoxin and other mycotoxin food contaminants
+T66,Unspecified effects of radiation,T66,Unspecified effects of radiation,0,0,0,Unspecified effects of radiation
+T68,Hypothermia,T68,Hypothermia,0,0,0,Hypothermia
+T71,Asphyxiation,T71,Asphyxiation,0,0,0,Asphyxiation
+T96,"Sequelae of poisoning by drugs, medicaments and biological substances",T96,Sequelae of poisoning by drugs medicaments and biological substances,0,1,0,Sequelae of poisoning by drugs
+T96,"Sequelae of poisoning by drugs, medicaments and biological substances",T96,Sequelae of poisoning by drugs medicaments and biological substances,0,1,-1,","
+T96,"Sequelae of poisoning by drugs, medicaments and biological substances",T96,Sequelae of poisoning by drugs medicaments and biological substances,0,1,0, medicaments and biological substances
+T97,Sequelae of toxic effects of substances chiefly nonmedicinal as to source,T97,Sequelae of toxic  effects of substances chiefly nonmedicinal as to source,0,1,0,Sequelae of toxic 
+T97,Sequelae of toxic effects of substances chiefly nonmedicinal as to source,T97,Sequelae of toxic  effects of substances chiefly nonmedicinal as to source,0,1,1, 
+T97,Sequelae of toxic effects of substances chiefly nonmedicinal as to source,T97,Sequelae of toxic  effects of substances chiefly nonmedicinal as to source,0,1,0,effects of substances chiefly nonmedicinal as to source
+V98,Other specified transport accidents,V98,Other specified transport accidents,0,0,0,Other specified transport accidents
+V99,Unspecified transport accident,V99,Uspecified transport accident,0,1,0,U
+V99,Unspecified transport accident,V99,Uspecified transport accident,0,1,-1,n
+V99,Unspecified transport accident,V99,Uspecified transport accident,0,1,0,specified transport accident
+Y86,Sequelae of other accidents,Y86,Sequelae of other accidents,0,0,0,Sequelae of other accidents
+Y95,Nosocomial condition,Y95,Nosocomial condition,0,0,0,Nosocomial condition
+Y96,Work-related condition,Y96,Work-related condition,0,0,0,Work-related condition
+Y97,Environmental-pollution-related condition,Y97,Environmental -pollution-related condition,1,1,0,Environmental
+Y97,Environmental-pollution-related condition,Y97,Environmental -pollution-related condition,1,1,1, 
+Y97,Environmental-pollution-related condition,Y97,Environmental -pollution-related condition,1,1,0,-pollution-related condition
+Y98,Lifestyle-related condition,Y98,Lifestyle-related condition,0,0,0,Lifestyle-related condition
+Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,0,0,0,Asymptomatic human immunodeficiency virus [HIV] infection status
+Z33,"Pregnant state, incidental",Z33,Pregnant state incidental,0,1,0,Pregnant state
+Z33,"Pregnant state, incidental",Z33,Pregnant state incidental,0,1,-1,","
+Z33,"Pregnant state, incidental",Z33,Pregnant state incidental,0,1,0, incidental
